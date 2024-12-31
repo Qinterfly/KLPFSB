@@ -22,11 +22,10 @@
 	- -m : Путь до директории с аудио файлами для замены;
 	- -o : Путь до результирующего ".fsb" файла.
 
-Примеры использования:
+Пример использования:
 
-	* ./KLPFSB.exe -e ".mp3" -i "examples/input.fsb" -m "examples/music" -o "examples/output.fsb"
-	* ./KLPFSB.exe
-	
+	./KLPFSB.exe -e ".mp3" -i "examples/input.fsb" -m "examples/music" -o "examples/output.fsb"
+
 6. Скопируйте результирующий ".fsb" файл в директорию "WormsWMD/Audio/PC".
 
 *Не забудьте осуществить те же операции с файлами "\*_Radio.fsb" для замены всех оригинальных банков звуков.*
