@@ -1,6 +1,6 @@
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Qinterfly/KLPFSB/master/README.md)
-[![ru](https://img.shields.io/badge/lang-ru-red.svg)](https://github.com/Qinterfly/KLPFSB/master/README.ru.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Qinterfly/KLPFSB/blob/master/README.md)
+[![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/Qinterfly/KLPFSB/blob/master/README.ru.md)
 
 ## About
 The program is aimed at swapping audio files in WormsWMD. It uses some functionality of [vgmstream](https://github.com/vgmstream/vgmstream/tree/master) to manipulate content of "*.fsb" files
