@@ -3,7 +3,7 @@
 [![ru](https://img.shields.io/badge/lang-ru-green.svg)](https://github.com/Qinterfly/KLPFSB/blob/master/README.ru.md)
 
 ## О программе
-Программа предназначена для замены аудио файлов в WormWMD. Она использует некоторый функционал [vgmstream](https://github.com/vgmstream/vgmstream/tree/master) для изменения содержимого "*.fsb" файлов
+Программа предназначена для замены аудио файлов в WormsWMD. Она использует некоторый функционал [vgmstream](https://github.com/vgmstream/vgmstream/tree/master) для изменения содержимого "*.fsb" файлов.
 
 ## Использование программы
 1. Скачайте последнюю [сборку](https://github.com/Qinterfly/KLPFSB/releases/tag/v.0.0.1) программы и распакуйте её.
