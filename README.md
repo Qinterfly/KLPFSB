@@ -22,9 +22,14 @@ The program is aimed at swapping audio files in WormsWMD. It uses some functiona
 	- -m : Path to the directory which contains audio files for swapping;
 	- -o : Path to the output .fsb file.
 
-Example of usage:
+Example of usage with arguments:
 	
 	./KLPFSB.exe -e ".mp3" -i "examples/input.fsb" -m "examples/music" -o "examples/output.fsb"
+	
+Alternatively, the program could be used without command line arguments. In that case the following conditions must be met:
+	* Move audio files to the directory "examples/music";
+	* Place the original sound bank file in the following path: "examples/input.fsb";
+In that scenario the program will create the file "examples/output.fsb" which has to be renamed and copied according to the next step.
 	
 6. Copy the modified file back to the "WormsWMD/Audio/PC" directory.
 
