@@ -28,7 +28,8 @@ Example of usage with arguments:
 	
 Alternatively, the program could be used without command line arguments. In that case the following conditions must be met:
 	* Move audio files to the directory "examples/music";
-	* Place the original sound bank file in the following path: "examples/input.fsb";
+	* Place the original sound bank file in the following path: "examples/input.fsb".
+
 In that scenario the program will create the file "examples/output.fsb" which has to be renamed and copied according to the next step.
 	
 6. Copy the modified file back to the "WormsWMD/Audio/PC" directory.
