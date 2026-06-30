@@ -2,3 +2,8 @@
 archive/
 bin
 int
+*.exe
+*.sln
+*.pdf
+*.vcxproj
+*.vcxproj.*
